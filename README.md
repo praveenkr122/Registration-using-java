@@ -6,6 +6,7 @@ This Java project demonstrates basic CRUD operations for a 'Registration' table 
 - Java 8 or higher
 - MySQL database
 - MySQL JDBC driver (included in the project)
+- eclipse
 
 ## Project Structure
 The project is organized into a package named `mycode`. Here is the structure:
